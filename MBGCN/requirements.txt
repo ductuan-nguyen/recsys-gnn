@@ -1,0 +1,4 @@
+absl-py
+scipy
+visdom
+setproctitle
